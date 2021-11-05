@@ -1,4 +1,4 @@
-### Hey, I am brightertiger! 👋
+### Hey, I am brightertiger <^..^>! 👋
 
 - I am a data scientist currently woking on machine learning and deep learning applicaitons. 
  
