@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hey, I am brightertiger! 👋
 
-![](https://komarev.com/ghpvc/?username=brightertiger)
+- I am a data scientist currently woking on machine learning and deep learning applicaitons. 
+ 
 
 <!--
 **brightertiger/brightertiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
