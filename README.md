@@ -10,22 +10,6 @@
 
 ---
 
-### 🚀 My Work
-
-Here are some of my highlighted projects:
-
-| Project | Description |
-|---|---|
-| **agents-demo** | LLM Agents Demo using Google ADK |
-| **lane-detection** | Lane Detection using U‑Net |
-| **entity-extraction** | Named Entity Recognition (NER) using BERT |
-| **website** | My single‑page web resume |
-| **blog** | A tracker for my projects and ideas |
-
-*(More repositories & experiments can be found in my GitHub profile.)*
-
----
-
 ### 📊 Stats & Contributions
 
 [![brightertiger’s GitHub stats](https://github-readme-stats.vercel.app/api?username=brightertiger&show_icons=true&theme=radical)](https://github.com/brightertiger)  
