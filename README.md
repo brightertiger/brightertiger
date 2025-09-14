@@ -8,7 +8,7 @@
 - 📫 Reach me via [brightertiger.xyz](https://www.brightertiger.xyz) or on Twitter [@0xbrightertiger](https://twitter.com/0xbrightertiger)
 - 💼 Find my professional resume [ujjwalsrao.xyz](https://www.ujjwalsrao.xyz)
 
----
+----
 
 ### 📊 Stats & Contributions
 
