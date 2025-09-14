@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Ujjwal Singh Rao. I also go by *brightertiger* (<^..^>)
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 
 
 - 🔬 **Data Scientist** with a passion for machine learning and deep learning applications  
 - 🌐 Based in India  
