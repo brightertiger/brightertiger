@@ -8,7 +8,6 @@ Data scientist and Kaggle Competitions Master. I build ML systems for a living a
 
 | Package | What it does | Links |
 |---|---|---|
-| **[abverdict](https://github.com/brightertiger/abverdict)** | A/B testing statistics for Python — sample size, significance, Bayesian & sequential analysis, with a web calculator | [PyPI](https://pypi.org/project/abverdict/) · [docs](https://brightertiger.github.io/abverdict/) · [live demo](https://abverdict.vercel.app) |
 | **[pygarble](https://github.com/brightertiger/pygarble)** | Detects garbled, gibberish text in English — 24 detection strategies, zero dependencies, 99.5% precision | [PyPI](https://pypi.org/project/pygarble/) · [docs](https://brightertiger.github.io/pygarble/) |
 
 ## ML projects
@@ -29,7 +28,6 @@ Competitions Master — 3 gold · 12 silver · 4 bronze
 
 ## Writing
 
-- [A/B Testing Done Right](https://brightertiger.substack.com/p/pyexpstats-ab-testing-done-right) — building the library behind abverdict
 - [PyGarble: Detecting Gibberish Text in Python](https://brightertiger.substack.com/p/pygarble-detect-gibberish-text-in)
 
 ---
